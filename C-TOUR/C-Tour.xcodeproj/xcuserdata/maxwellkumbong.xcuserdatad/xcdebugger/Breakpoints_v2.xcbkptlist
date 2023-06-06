@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CDC1EB3E-49AE-4EB0-AA98-B573278CDC83"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7D8A749-3353-4E18-8F15-64757E663AEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C-Tour/View Controllers/CampusViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "College"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "C7D8A749-3353-4E18-8F15-64757E663AEE - 5e74a9b2afdb31f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; C_Tour.CampusViewController"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C7D8A749-3353-4E18-8F15-64757E663AEE - 4b2b34b463c536ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;C_Tour.CampusViewController&gt;"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76F5847E-6DBF-4F67-BD0B-3E958C502E35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C-Tour/View Controllers/CampusViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CampusViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "76F5847E-6DBF-4F67-BD0B-3E958C502E35 - 5e74a9b2afdb31f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; C_Tour.CampusViewController"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "76F5847E-6DBF-4F67-BD0B-3E958C502E35 - 4b2b34b463c536ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;C_Tour.CampusViewController&gt;"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE269786-8956-4538-972A-76343725AF98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "C-Tour/View Controllers/CampusViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "College"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "BE269786-8956-4538-972A-76343725AF98 - 5e74a9b2afdb31f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; C_Tour.CampusViewController"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "BE269786-8956-4538-972A-76343725AF98 - 4b2b34b463c536ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C_Tour.CampusViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;C_Tour.CampusViewController&gt;"
+                  moduleName = "C-Tour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxwellkumbong/Desktop/codepath/Group%20Project/C-Tour/C-Tour/View%20Controllers/CampusViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
