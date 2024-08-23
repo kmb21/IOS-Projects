@@ -60,12 +60,12 @@ This app does what any tour guide can do but also has more to offer. It enables 
 **Tab Navigation** (Tab to Screen)
 
 * Home
-> [name=Fanuel]This would be the screen where a user can see the top ten popular places on the campus.
+> This would be the screen where a user can see the top ten popular places on the campus.
 * Location
-> [name=Fanuel]This is where we will use mapkit that will enable users to add their current location.
+> This is where we will use mapkit that will enable users to add their current location.
 
 
-> [name=Fanuel]If you have ideas for more tabs you can include it here. I think the tab navigation should kinda look like the navigation you see on instagram for home feed, search... 
+> If you have ideas for more tabs you can include it here. I think the tab navigation should kinda look like the navigation you see on instagram for home feed, search... 
 
 **Flow Navigation** (Screen to Screen)
 
